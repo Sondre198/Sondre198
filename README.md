@@ -1,4 +1,4 @@
-![image]()
+![image](dale.jpg)
 
 ### Hi there 👋 I'm Sondre
 
