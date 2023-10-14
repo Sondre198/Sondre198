@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs :D
 
-- Please look at my portfolio at: 
+- Please look at my portfolio at: https://thunderous-nasturtium-b231f2.netlify.app/
