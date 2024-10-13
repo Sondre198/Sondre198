@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Sondre
 
-- 🔭 I’m currently working on my Project Exam 2 Assignment
+- 🔭 I’m currently working on my Portfolio 2 Assignment
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: sondre.lie@hotmail.no
 - 😄 Pronouns: he/him
